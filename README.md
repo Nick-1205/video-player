@@ -47,3 +47,5 @@ der Verwaltung von Videolisten und der Steuerung eines Videoplayers.
 
 Durch die praktische Umsetzung kann ich das Wissen aus meiner Umschulung
 anwenden und neue Erfahrungen in der Webentwicklung sammeln.
+
+Erstellt von Nick N
