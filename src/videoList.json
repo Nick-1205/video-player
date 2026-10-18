@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Ocean",
+    "src": "https://vjs.zencdn.net/v/oceans.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Hase",
+    "src": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": "3",
+    "title": "Drohne",
+    "src": "https://photo-sphere-viewer-data.netlify.app/assets/equirectangular-video/Ayutthaya_HD.mp4"
+  }
+]
